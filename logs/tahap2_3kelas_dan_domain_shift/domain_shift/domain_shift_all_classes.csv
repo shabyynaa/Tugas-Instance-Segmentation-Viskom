@@ -1,0 +1,4 @@
+model,split_orig_test,mask_mAP50_orig_test,mask_mAP50_95_orig_test,split_custom_test,mask_mAP50_custom_test,mask_mAP50_95_custom_test,delta_mAP50,delta_mAP50_95
+YOLOv8s-seg,test,0.1971,0.1279,custom_test,0.3179,0.2282,0.1208,0.1003
+Mask R-CNN,test,0.165,0.1082,custom_test,0.2716,0.1779,0.1066,0.0697
+Mask2Former,test,0.1419,0.0964,custom_test,0.2014,0.1547,0.0595,0.0583

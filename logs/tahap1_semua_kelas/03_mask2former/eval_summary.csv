@@ -1,0 +1,3 @@
+model,split,mask_mAP50_95,mask_mAP50
+Mask2Former,valid,0.1922,0.2593
+Mask2Former,test,0.0964,0.1419

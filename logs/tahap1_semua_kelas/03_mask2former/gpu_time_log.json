@@ -1,0 +1,6 @@
+{
+  "model": "Mask2Former",
+  "gpu": "Tesla T4",
+  "duration_seconds": 1833.8,
+  "duration_minutes": 30.56
+}

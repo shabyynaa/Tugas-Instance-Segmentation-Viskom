@@ -1,0 +1,7 @@
+{
+  "model": "Mask R-CNN",
+  "scenario": "3_hard_classes",
+  "gpu": "Tesla T4",
+  "duration_seconds": 415.49,
+  "duration_minutes": 6.92
+}

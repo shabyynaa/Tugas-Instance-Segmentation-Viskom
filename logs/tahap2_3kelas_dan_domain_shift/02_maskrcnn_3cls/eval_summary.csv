@@ -1,0 +1,4 @@
+model,scenario,split,mask_mAP50_95,mask_mAP50
+Mask R-CNN,3_hard_classes,valid,0.3717,0.3978
+Mask R-CNN,3_hard_classes,orig_test,0.0331,0.0537
+Mask R-CNN,3_hard_classes,custom_test,0.1027,0.1327

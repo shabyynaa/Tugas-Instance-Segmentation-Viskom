@@ -1,0 +1,7 @@
+model,gpu,duration_seconds,duration_minutes,stage,scenario
+YOLOv8s-seg,Tesla T4,1056.34,17.61,Semua Kelas,
+Mask R-CNN,Tesla T4,2097.97,34.97,Semua Kelas,
+Mask2Former,Tesla T4,1833.8,30.56,Semua Kelas,
+YOLOv8s-seg,Tesla T4,287.49,4.79,3 Kelas Tersulit,3_hard_classes
+Mask R-CNN,Tesla T4,415.49,6.92,3 Kelas Tersulit,3_hard_classes
+Mask2Former,Tesla T4,347.24,5.79,3 Kelas Tersulit,3_hard_classes

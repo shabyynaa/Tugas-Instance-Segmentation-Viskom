@@ -1,0 +1,4 @@
+model,scenario,split,mask_mAP50_95,mask_mAP50
+Mask2Former,3_hard_classes,valid,0.4746,0.4808
+Mask2Former,3_hard_classes,orig_test,0.0169,0.025
+Mask2Former,3_hard_classes,custom_test,0.0273,0.0462

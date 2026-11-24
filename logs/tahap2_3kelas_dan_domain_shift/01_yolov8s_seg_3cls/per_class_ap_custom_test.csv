@@ -1,0 +1,4 @@
+class_id,class_name,mask_ap50,mask_ap50_95
+0,cabinet-merged,0.0012,0.0003
+1,pillow,0.0127,0.0045
+2,wall-tile,0.0034,0.0008

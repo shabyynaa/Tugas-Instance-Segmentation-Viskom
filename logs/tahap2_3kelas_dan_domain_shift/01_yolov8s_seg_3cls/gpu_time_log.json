@@ -1,0 +1,7 @@
+{
+  "model": "YOLOv8s-seg",
+  "scenario": "3_hard_classes",
+  "gpu": "Tesla T4",
+  "duration_seconds": 287.49,
+  "duration_minutes": 4.79
+}

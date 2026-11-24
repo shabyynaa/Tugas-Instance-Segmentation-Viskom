@@ -1,0 +1,4 @@
+class_id,class_name,gt_instances,mask_ap50,mask_ap50_95
+3,wall-tile,47,0.0497,0.0268
+1,cabinet-merged,110,0.0616,0.0351
+2,pillow,37,0.0499,0.0373
