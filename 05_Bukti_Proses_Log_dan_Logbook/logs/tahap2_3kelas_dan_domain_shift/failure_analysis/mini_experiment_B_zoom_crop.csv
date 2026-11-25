@@ -1,0 +1,4 @@
+image,target_class,yolo_iou_full,yolo_iou_crop,mrcnn_iou_full,mrcnn_iou_crop
+DATATEST_IMG_7854-21-,door-stuff,0.0,0.0,0.0,0.0
+DATATEST_IMG_7854-33-,floor-other-merged,0.0,0.2599,0.0,0.2623
+DATATEST_IMG_7854-28-,stove-merged,0.0533,0.0,0.7775,0.8943
